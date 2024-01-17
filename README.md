@@ -24,7 +24,7 @@ Minty is a web-based eCommerce application built to provide users with a user-fr
 
 To run Minty on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/minty.git`
+1. Clone the repository: `git clone https://github.com/Souei08/minty.git`
 2. Navigate to the project directory: `cd minty`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
